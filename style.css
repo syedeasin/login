@@ -92,3 +92,11 @@ h6{
    font-family: 'Poppins', sans-serif;
     font-size: 13px;
 }
+
+
+@media (max-width: 575.98px) {
+    h6{
+        font-size: 8px;
+    }
+
+}
